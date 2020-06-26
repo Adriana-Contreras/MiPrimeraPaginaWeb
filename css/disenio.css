@@ -1,0 +1,40 @@
+
+.pri
+{
+font-size: 100%;
+max-width: 95%;
+margin: auto;
+background: #fff; 
+box-shadow:0px 1px 2px rgba(0, 1, 0, 1);  
+max-width: 1000px;
+padding: 60px;
+background: #fff; 
+
+}
+.pri  .texto .article p
+{
+  text-align: justify;
+  color: #000000;
+}
+
+.pri  .texto .article p a
+{
+   
+  text-align: justify;
+  font-weight: 100;   
+  color: #000000;
+}
+.pri h2
+{margin: 10px 20px 20px 20px ;
+ 
+color: #000000; 
+}
+
+.pri .texto .article img
+{
+width: 300px;
+height: 200px;
+float: left;
+margin-right: 10px;
+margin-bottom: 20px;
+}
