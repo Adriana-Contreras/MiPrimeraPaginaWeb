@@ -36,7 +36,7 @@ que tiene cada personaje y en una ambientación la cual cuenta con un voice boot
 
 ## Team
 
-> By Adriana Contreras Arancibia
+> By Adri Contreras
 
 | <a  target="_blank">**Programación III**</a> | <a  target="_blank">**Sistemas Móviles**</a> | 
 | :---: |:---:| 
