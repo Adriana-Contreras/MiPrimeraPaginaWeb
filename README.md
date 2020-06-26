@@ -26,7 +26,7 @@ que tiene cada personaje y en una ambientación la cual cuenta con un voice boot
 - Styles  <a href="https://www.w3schools.com/css/" target="_blank">**CSS**</a> 
 - Empleo de  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank">**JavaScript**</a> 
 
-**programming is the closest thing to having powers**
+**Programming is The Closest Thing to Having Powers :D**
 
 
 [![INSERT YOUR GRAPHIC HERE](https://i.pinimg.com/originals/6e/a8/c6/6ea8c68dfa924bc2e6a9abe3e473087a.gif)]()
