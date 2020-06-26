@@ -4,10 +4,10 @@ Aqui se aloja l codigo de mi primera web diseñada con html, css y js esta pagin
 en esta pagina se trata de aplicar algunos conceptos de experiencias de usuarios para empezar a usar los conceptos de ux 
 
 
-![Recordit GIF](https://i.pinimg.com/originals/29/bc/09/29bc09e91948e3354f3cda0809b5be1e.gif)
+![Recordit GIF](https://i.pinimg.com/originals/ec/c3/88/ecc3882e29654a291f8824494979145b.gif)
 
 
-[![INSERT YOUR GRAPHIC HERE](https://i.pinimg.com/236x/46/44/41/46444154aa60cc85e5985cf9b641e9e1.jpg)]()
+
 
 **Contenido del repositorio**
 
